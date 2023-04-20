@@ -45,7 +45,7 @@ cd weibo-repost-get
 安装需要的package：
 
 ```powershell
-pip install -r requiremes.txt
+pip install -r requirements.txt
 ```
 
 ## 使用方法
