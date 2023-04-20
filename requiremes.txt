@@ -1,0 +1,15 @@
+pandas
+json
+os
+random
+requests
+re
+fake_useragent
+numpy
+bs4
+alive_progress
+time
+lxml
+urllib.parse
+datetime
+openpyxl
